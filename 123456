@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>网站精选</title>
+</head>
+<body>
+<p>哔哩哔哩弹幕视频网</p>
+<iframe src="bilibili.com" width="200" height="200" scrolling="yes">
+</ifame>
+<br><a href=www.bilibili.com>点击前往>></a>
+<br><p>在线Mac老版本</p>
+		<div style="width:880px;height:576px">
+			<iframe src="https://leonier.github.io/mvmac2/mvmac2.html" style="width:400;height:450"></iframe>
+      <br><a href=https://leonier.github.io/mvmac2/mvmac2.html>点击前往>></a>
+      <br><p>在线抠图</p>
+      <iframe src="https://www.remove.bg/zh" style"width:400;height:500"><iframe>
+      <br><a href="www.remove.bg/zh">点击前往>></a>
+      <br><p>在线制作PPT(打工人必备)</p>
+      <br><a href="Beautiful.ai">点击前往>></a>
+      <br><p>必应搜索</p>
+      <br><a href="cn.bing.com">点击前往>></a>
+      <br><p>菜鸟教程(可以学习编程语言👍)</p>
+      <br><a href="https://www.runoob.com/">点击前往>></a>
+      <br><a href="https://space.bilibili.com/1309297717">我的B站个人空间</a>
